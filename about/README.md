@@ -11,4 +11,3 @@
 ![](../img/artificial-intelligence.jpg)
 
 
-
